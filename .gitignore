@@ -1,0 +1,8 @@
+```gitignore
+# Ignore Node.js build artifacts
+*node_modules/
+
+# Ignore npm package-lock files
+*package-lock.json
+*package.json
+```
