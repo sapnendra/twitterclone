@@ -1,4 +1,4 @@
-# Twitter Landing Page Clone(Under Construction)
+# Twitter Home Page Clone(Under Construction)
 
 ## Overview
 
